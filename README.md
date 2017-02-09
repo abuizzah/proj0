@@ -1,4 +1,5 @@
 # proj0
 Project0
-just a starter - no code
+just a starter
 Updated today
+updated 2nd time
